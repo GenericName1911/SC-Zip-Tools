@@ -12,7 +12,8 @@ def process_file(file_path):
     
     # Compress with LZMA if not already compressed.
     if not file_data.startswith((b"Sig:", b"]", b"SC")):
-        processed_data = compress(file_data, Signatures.LZMA, 3) # Change "LZMA" to "SC" for COC files
+        processed_data = compress(file_data, Signatures.LZMA, 3) # Change "LZMA" to "SC" for COC or .sc files
+        
         with open(file_path, "wb") as f:
             f.write(processed_data)
 
