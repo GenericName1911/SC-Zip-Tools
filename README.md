@@ -4,7 +4,7 @@ These tools are used for compressing/decompressing Supercell's game assets, _spe
 
 The `.pyw` ([python no-console extension](https://docs.python.org/2/using/windows.html#executing-scripts)) file should be run using `Python`. It has been used to prevent unnecessary console flashing. If you are unable to run `.pyw` files, rename them to `.py` . Requires Python version >=3.5
 
-Video Demonstration: (Soon)
+Video Demonstration: https://youtu.be/hHuo5Bfy3pQ
 
 For any errors or feedback, feel free to message me anytime on discord `@generic_name_1911`.
 
