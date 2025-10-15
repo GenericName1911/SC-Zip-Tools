@@ -28,7 +28,7 @@ For any errors or feedback, feel free to message me anytime on discord `@generic
 ## Licensing Notice:
 
 ```
-Copyright (C) 2024 generic_name_1911
+Copyright (C) 2025 GenericName1911
 
 This program is free software: You can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
