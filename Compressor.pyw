@@ -12,7 +12,7 @@ def process_file(file_path):
     
     # Compress with LZMA if not already compressed.
     if not file_data.startswith((b"Sig:", b"]", b"SC")):
-        processed_data = compress(file_data, Signatures.LZMA, 3) # Change "LZMA" to "SC" for COC or .sc files
+        processed_data = compress(file_data, Signatures.LZMA, 3) # Change "LZMA" to "SC" for .sc files or to "SIG" for Clash Of Clans CSV files.
         
         with open(file_path, "wb") as f:
             f.write(processed_data)
