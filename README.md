@@ -1,3 +1,8 @@
+I see that a LOT of people are having trouble with the tool not working. I will improve it when I have time ≽^•⩊•^≼
+
+Rest assured, it'll be fixed.
+
+---
 # SC-Zip-Tools
 
 These tools are used for compressing/decompressing Supercell's game assets, _specifically_ for CSV and TOML files. Just drag and drop the files onto the tool (OR use it via CLI arguments), and it will do the work for you. Make sure to run `setup.py` before using any scripts!
