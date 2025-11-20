@@ -1,17 +1,16 @@
-I see that a LOT of people are having trouble with the tool not working. I will improve it when I have time ≽^•⩊•^≼
-
-Rest assured, it'll be fixed.
-
----
 # SC-Zip-Tools
 
 These tools are used for compressing/decompressing Supercell's game assets, _specifically_ for CSV and TOML files. Just drag and drop the files onto the tool (OR use it via CLI arguments), and it will do the work for you. Make sure to run `setup.py` before using any scripts!
 
 The `.pyw` ([python no-console extension](https://docs.python.org/2/using/windows.html#executing-scripts)) file should be run using `Python`. It has been used to prevent unnecessary console flashing. If you are unable to run `.pyw` files, rename them to `.py` . Requires Python version >=3.5
 
-Video Demonstration: https://youtu.be/hHuo5Bfy3pQ
-
 For any errors or feedback, feel free to message me anytime on discord `@generic_name_1911`.
+
+## Usage:
+
+A. **Drag 'N Drop:** Self explanatory. Also works through CLI.
+
+B. **File Explorer:** Opens file explorer to select files. Use it if DND doesn't work.
 
 ## Features:
 
@@ -33,7 +32,7 @@ For any errors or feedback, feel free to message me anytime on discord `@generic
 ## Licensing Notice:
 
 ```
-Copyright (C) 2025 GenericName1911
+Copyright (C) 2024 generic_name_1911
 
 This program is free software: You can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
