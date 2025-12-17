@@ -10,7 +10,7 @@ For any errors or feedback, feel free to message me anytime on discord `@generic
 
 A. **Drag 'N Drop:** Self explanatory. Also works through CLI.
 
-B. **File Explorer:** Opens file explorer to select files. Use it if DND doesn't work.
+B. **File Explorer:** Double click the script to open file explorer to select files. Use it if DND doesn't work.
 
 ## Features:
 
